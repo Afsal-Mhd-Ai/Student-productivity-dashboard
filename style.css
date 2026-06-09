@@ -1,0 +1,25 @@
+.main-content{
+    flex:1;
+    padding:30px;
+    background:#f4f4f4;
+}
+
+.welcome-card{
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    margin-bottom:20px;
+}
+
+.dashboard-grid{
+    display:flex;
+    gap:20px;
+    flex-wrap:wrap;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    width:250px;
+}
